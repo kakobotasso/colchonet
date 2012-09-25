@@ -1,3 +1,4 @@
 == Colcho.net
 
-This is an application from the book ">http://www.casadocodigo.com.br/products/ruby-on-rails-coloque-sua-aplicacao-web-nos-trilhos"Ruby on Rails - coloque sua aplicação web nos trilhos>". 
+This is an application from the book "Ruby on Rails - coloque sua aplicação web nos trilhos". 
+http://www.casadocodigo.com.br/products/ruby-on-rails-coloque-sua-aplicacao-web-nos-trilhos
